@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Definiamo il colore brand personalizzato richiesto per il placeholder */
+@theme {
+  --color-brand: #FF5039;
+}
